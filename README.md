@@ -16,7 +16,7 @@ FlowerRecognizer is a web application built with Streamlit that allows users to 
 
 1. Clone the repository:
 
-   git clone https://github.com/YOUR_USERNAME/FlowerRecognizer.git
+   git clone https://github.com/Wuwi3/FlowerRecognizer.git
    cd FlowerRecognizer
 
 2. Create a virtual environment and install required packages:
