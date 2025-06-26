@@ -35,4 +35,7 @@ FlowerRecognizer is a web application built with Streamlit that allows users to 
 
    streamlit run flower_recognizer.py
 
+
+
+
 Created by Marek Wołowik
